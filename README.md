@@ -1,2 +1,4 @@
 # Leaf-Client
-A fabric mod and a beautiful UI modification mod
+* A fabric mod
+
+* And also a beautiful UI modification mod
